@@ -1,0 +1,269 @@
+@charset "utf-8";
+
+#home
+{
+	background: url(http://kaflesajan.com.np/boot/5/assets/images/bg/mainbg.jpg) no-repeat;
+	
+	background-size: cover;
+}
+.home
+{
+	background: rgba(0,0,0,0.7);
+	min-height: 600px;
+}
+.navbar-default
+{
+	background: transparent;
+border: 0px;
+padding-top: 20px;
+transition: 0.6s;
+}
+.navbar-default .navbar-nav>li>a
+{
+	color: #fff;
+
+}
+.navbar-brand>img 
+{
+	margin-top:-15px;
+}
+.bg1
+{
+	padding-top: 180px;
+	color: #fff;
+	font-size: 15px;
+}
+.bg1 h1
+{
+font-size: 60px;
+font-weight: bold;
+}
+.bg1 h1 span
+{
+color: #FF9F1C;
+}
+.btn-primary
+{
+	    display: inline-block;
+    color: #fff;
+    padding: 15px 35px;
+    text-transform: capitalize;
+    font-size: 14px;
+    border: 1px solid #FF9F1C;
+    font-weight: 600;
+    letter-spacing: 1px;
+    border-radius: 30px;
+    background: #FF9F1C;
+    margin-top: 25px;
+
+}
+.btn-primary:hover
+{
+border: 1px solid #FF9F1C;
+background: transparent;
+}
+#about
+{
+	background: #000;
+	color:#fff;
+	padding: 50px 0px;
+}
+#about p
+{
+	line-height: 20px;
+	font-size: 12px;
+
+}
+#about h1
+{
+	font-size: 50px;
+	padding-bottom: 15px;
+}
+.top-nav-collapse
+{
+	background: #000;
+}
+#tour
+{
+	background:url(http://kaflesajan.com.np/boot/5/assets/images/bg/mainbg.jpg) no-repeat;
+	background-size: cover;
+}
+.t
+{
+	background-color: rgba(0,0,0,0.5);
+	min-height: 400px;
+}
+.t h2
+{
+	color:#fff;
+	font-size: 27px;
+	padding-bottom: 10px;
+	padding-top: 14px
+}
+.meroimg
+{
+	position: relative;
+	margin: 0; padding: 0;
+}
+.inner
+{
+
+    padding: 10px 10px;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    background: rgba(0,0,0,0.9);
+    width: 100%;
+    color: #fff;
+    margin-bottom: 30px;
+    height: 50px
+
+}
+.inner h4
+{
+	float: left;
+}
+.inner h5
+{
+	float: right;
+	color: #FF9F1C;
+}
+.read
+{
+	position: absolute;
+	right: -10px;
+	background: #FF9F1C;
+	color: #fff;
+	top: 30px;
+	background: rgba(255, 159, 28, 0.8);
+	padding: 6px;
+}
+.carousel-control {
+    position: absolute;
+    top: 80px;
+    bottom: 0;
+    left: 0;
+    width: 15%;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+    }
+   .carousel-control.left {
+   	background:#FF9F1C;
+   	width:50px;
+   	height:40px;}
+   	.carousel-control.right {
+   	background:#FF9F1C;
+   	width:50px;
+   	height:40px;}
+   	.abt i
+   {
+   	color: #090;
+   	padding-right: 20px;
+   }
+   	
+   #youtube
+   {
+   	background:url(http://kaflesajan.com.np/boot/5/assets/images/bg/youtube.jpg);
+   	background-size: cover;
+   }
+   .youtube
+   {
+   	background: rgba(51,51,51,0.5);
+   	min-height: 450px;
+   	padding-top: 170px;
+   }
+   
+   .youtube h1
+   {
+   	color: #fff
+
+   }
+.circle
+   {
+font-size: 30px;
+border: 1px solid #fff;
+color: #FF9F1C;
+height: 100px;
+width: 100px;
+border-radius: 50%;
+line-height: 100px;
+text-align: center;
+padding-left: 6px;
+background: #fff;
+margin: auto;
+   }
+
+   .about2
+{
+	color: #fff;
+	padding-top: 20px
+
+}
+.about2 img
+{
+	width: 60%;
+	margin: auto;
+	padding-top: 20px;
+}
+.about3 img
+{
+	width: 25%;
+
+	float: left;
+}
+.teext
+{
+	background: #16161E;
+	color: #fff;
+	font-size: 13px;
+min-height:700px;
+}
+.vv
+{
+	padding-top: 65px
+
+}
+.bb
+{
+	padding-top: 65PX;
+}
+.dd
+{
+	padding-top: 65px;
+    margin-top: 20px;
+}
+..single-contact {
+    color: #fff;}
+
+.single-contact:hover .contact-icon i {
+    color: #fff;
+    border: 1px solid #FF9F1C;
+    -webkit-transition: .3s;
+    transition: .3s;
+    font-size: 10px;
+    background: #FF9F1C}
+
+    .contact-icon i {
+    font-size: 10px;
+    color: #FF9F1C;
+    height: 30px;
+    width: 30px;
+    border: 1px solid #FF9F1C;
+    border-radius: 50%;
+    line-height: 25px;
+    text-align: center;
+    -webkit-transition: .3s;
+    transition: .3s;
+    margin-top: 20px;
+}
+.ee
+{
+	margin-top: 65px;
+}
+ .abb {
+    color: #fff;
+    background: orange;
+    border: 0px;
+    height: 35px;
